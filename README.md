@@ -1,1 +1,1 @@
-# choreo-ai-samples
+# Choreo Demo
